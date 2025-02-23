@@ -1,5 +1,5 @@
 import pytest
-from user_data import BunData  # Импортируем BunData
+from helpers.user_data import BunData  # Импортируем BunData
 from praktikum.ingredient import Ingredient  # Импортируем класс Ingredient
 
 class TestIngredient:
